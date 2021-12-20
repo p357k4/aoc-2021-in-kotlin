@@ -150,6 +150,6 @@ fun main() {
 
     val input = readInput("Day18")
     check(part1(input) == 3524)
-    check(part2(input) == 3282)
+    check(part2(input) == 4656)
 }
 
